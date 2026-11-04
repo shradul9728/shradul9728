@@ -145,6 +145,12 @@ A multi-role service platform with customer, driver, and admin experiences, orde
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shradul9728&bg_color=0B1020&color=CBD5E1&line=62E9F5&point=9B8CFF&area=true&hide_border=true" alt="Contribution activity graph"/>
 
+### 🐍 Contribution trail
+
+<p align="center">
+  <img width="96%" src="https://raw.githubusercontent.com/shradul9728/shradul9728/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+</p>
+
 </div>
 
 ---
